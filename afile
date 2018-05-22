@@ -1,4 +1,7 @@
 [default]
 key = something else
 secret = more sensitive
+[prod]
+key = new prodthing
+secret = new prodsecret
 
