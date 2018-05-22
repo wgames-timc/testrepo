@@ -1,4 +1,4 @@
 [default]
-key = something
-secret = sensitive
+key = something else
+secret = more sensitive
 
