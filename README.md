@@ -1,7 +1,7 @@
 
-* [Build and Deploy without CI] (#building-and-deploying-without-ci)
-    * [quickbuild.sh] (#quickbuild)
-    * [quickdeploy.sh] (#quickdeploy)
+* [Build and Deploy without CI](#building-and-deploying-without-ci)
+    * [quickbuild.sh](#quickbuild)
+    * [quickdeploy.sh](#quickdeploy)
 
 
 ## Building and Deploying without CI
